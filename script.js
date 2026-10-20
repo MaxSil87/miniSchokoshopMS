@@ -1,4 +1,4 @@
-// ChocoLaden – Warenkorb mit Liste und Summe
+// SchokoMax – Warenkorb mit Liste und Summe
 
 const korbText = document.getElementById("korbText");
 const kaufButtons = document.querySelectorAll(".kaufen");
